@@ -6,4 +6,4 @@
     <td>a</td>
   </tr>
 </table>
-<img src="https://regeld.com/desi/wp-content/uploads/2021/07/rh4dx-0yp8a.gif"/>
+<img src="https://regeld.com/desi/wp-content/uploads/2021/07/rh4dx-0yp8a.gif" style="mix-blend-mode: multiply"/>
