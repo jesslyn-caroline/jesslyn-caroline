@@ -1,2 +1,2 @@
-### Hi, I'm Jesslyn!
+## Hi, I'm Jesslyn!
 Undergraduate Informatics Engineering student 
