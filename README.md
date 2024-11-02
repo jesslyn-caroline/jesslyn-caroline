@@ -1,2 +1,1 @@
-## Hi, I'm Jesslyn!
-Undergraduate Informatics Engineering student 
+<h1 align="center">Jesslyn Caroline</h1>
