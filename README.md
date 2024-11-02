@@ -6,4 +6,4 @@
     <td>a</td>
   </tr>
 </table>
-<img src="https://regeld.com/desi/wp-content/uploads/2020/03/200315_a_trip_mobilephone.png" style="width: 100px; height: auto"/>
+<img src="https://regeld.com/desi/wp-content/uploads/2021/07/rh4dx-0yp8a.gif"/>
