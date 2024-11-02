@@ -6,3 +6,4 @@
     <td>a</td>
   </tr>
 </table>
+<img src="https://pin.it/2lWz1L3o3"/>
