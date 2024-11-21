@@ -7,13 +7,19 @@ Hi! My name is Jesslyn Caroline. I am an undergraduate Informatics Engineering s
 On this page, I post my university assignments weekly. I also post some projects that I do. Feel free to check it out!
 <br/>
 
-### Skills ###
-`` HTML `` &nbsp; ``CSS`` &nbsp; ``JavaScript`` &nbsp; ``React JS`` &nbsp; ``Figma`` 
+### Technologies ###
+- HTML
+- CSS
+- JavaScript
+- React JS
+- Figma
+- MySQL
+- C++
+- Python
 
-``MySQL`` &nbsp; ``C++`` &nbsp; ``Python``
-<br/>
 ### Still Learning ###
-``` Node JS ``` &nbsp; ``` Express JS ```
+- Node JS 
+- Express JS
 
 <br/>
 
