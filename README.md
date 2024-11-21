@@ -11,15 +11,15 @@ On this page, I post my university assignments weekly. I also post some projects
 - HTML
 - CSS
 - JavaScript
-- React JS
+- React.js
 - Figma
 - MySQL
 - C++
 - Python
 
 ### Still Learning ###
-- Node JS 
-- Express JS
-
+- Node.js
+- Express.js
+- TypeScript
 <br/>
 
