@@ -18,8 +18,9 @@ On this page, I post my university assignments weekly. I also post some projects
 - Python
 
 ### Still Learning ###
-[![React](https://img.shields.io/badge/react?style=for-the-badge&logo=react&logoColor=F7DF1E)]
 - Express.js
 - TypeScript
 <br/>
 
+
+![Snake animation](https://github.com/jesslyn-caroline/jesslyn-caroline/blob/output/github-contribution-grid-snake.svg)
