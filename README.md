@@ -18,7 +18,7 @@ On this page, I post my university assignments weekly. I also post some projects
 - Python
 
 ### Still Learning ###
-[![](https://img.shields.io/badge/react?style=for-the-badge&logo=react&logoColor=F7DF1E)]
+[![React](https://img.shields.io/badge/react?style=for-the-badge&logo=react&logoColor=F7DF1E)]
 - Express.js
 - TypeScript
 <br/>
