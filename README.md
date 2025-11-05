@@ -25,3 +25,4 @@ On this page, I post my university assignments weekly. I also post some projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesslyn-caroline&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesslyn-caroline)](https://github.com/jesslyn-caroline/github-readme-stats)
