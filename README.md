@@ -1,7 +1,10 @@
-<img src="https://regeld.com/desi/wp-content/uploads/2020/02/health_b_200224_05.png" style="width: 150px; height: auto"/> <h2>Greetings! I'm Jesslyn!</h2>
-**Undergraduate Computer Science student** &nbsp; **|** &nbsp; **Passionate in Web-Development** &nbsp; 
+<img src="https://regeld.com/desi/wp-content/uploads/2020/02/health_b_200224_05.png" style="width: 150px; height: auto"/> <h2>Greetings! I'm Jesslyn Caroline!</h2>
 
-A 3rd-year Computer Science student who enjoys Competitive Programming and exploring new things in Development!
+🧩 I do Competitive Programming <br/>
+💻 Passionate about Web Development <br/>
+🌱 Continuously exploring my curiosity in technology <br/>
+🎯 Challenges are hard but always worth the fun!
+ 
 
 ## Technologies ##
 **Front End Development**
